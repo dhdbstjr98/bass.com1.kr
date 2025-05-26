@@ -1,3 +1,0 @@
-RewriteEngine On
-
-RewriteRule ^([0-9]+)$ /play.php?no=$1 [L,QSA]
